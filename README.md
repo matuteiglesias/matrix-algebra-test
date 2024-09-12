@@ -5,7 +5,7 @@ A continuación, se detallan los pasos para acceder al repositorio, trabajar en 
 
 ## **Paso 1: Hacer Fork del Repositorio**
 
-1. Accede al repositorio central en GitHub: (este repo)
+1. Accede al repositorio central en GitHub: (este repo) https://github.com/matuteiglesias/matrix-algebra-test.git
 2. En la esquina superior derecha, haz clic en el botón **Fork** para crear una copia de este repositorio en tu cuenta de GitHub.
 3. Una vez que el repositorio esté en tu cuenta, verás que el nombre cambia a **tu_usuario/matrix-algebra-test**.
 
