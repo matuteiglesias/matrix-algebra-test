@@ -14,11 +14,11 @@ A continuación, se detallan los pasos para acceder al repositorio, trabajar en 
 1. Abre una terminal en tu computadora y navega a la carpeta donde deseas trabajar.
 2. Clona tu copia del repositorio a tu computadora local ejecutando el siguiente comando:
    ```bash
-   git clone https://github.com/TU_USUARIO/matrix-algebra-exam.git
+   git clone https://github.com/TU_USUARIO/matrix-algebra-test.git
    ```
 3. Ingresa en la carpeta clonada:
    ```bash
-   cd matrix-algebra-exam
+   cd matrix-algebra-test
    ```
 
 ## **Paso 3: Trabajar en los Problemas**
